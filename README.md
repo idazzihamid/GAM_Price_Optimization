@@ -47,6 +47,6 @@ Each service is offered with either **original** or **aftermarket** parts. This 
 
 ## 👤 Author
 Hamid Id Azzi  
-[GitHub Profile](https://github.com/) (insert your link)  
+[GitHub Profile](https://github.com/)  
 Data Analyst | Economics + Tech Repair Background  
 
