@@ -39,13 +39,7 @@ Each service is offered with either **original** or **aftermarket** parts. This 
 - Extend elasticity modeling to all product categories
 - Integrate promotional campaign analysis (e.g., bundle pricing)
 
-##  How to Use
-1. Clone this repository
-2. Open the Jupyter notebook in your preferred environment
-3. Install `pyGAM` if needed: `pip install pygam`
-4. Run the cells step-by-step to reproduce the analysis
-
-## 👤 Author
+##  Author
 Hamid Id Azzi  
 [GitHub Profile](https://github.com/)  
 Data Analyst | Economics + Tech Repair Background  
